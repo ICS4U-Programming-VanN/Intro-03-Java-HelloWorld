@@ -1,5 +1,5 @@
 /**
- * Displays Hello World message.
+ * Displays Hello message to Tamer.
  *
  * @author Van
  * @version 1.0
